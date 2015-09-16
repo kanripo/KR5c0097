@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 太上道德眞經集註雜説
-#+DATE: 2015-08-29 00:23:22
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
