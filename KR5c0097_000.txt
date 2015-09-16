@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 太上道德眞經集註雜説
-#+DATE: 2015-08-29 00:23:22
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:23:18.109202
+#+TITLE: 道德眞經集註雜說
+#+PROPERTY: DZID  DZ0709
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，13—106 十八卷（釋文一卷 洞神部玉訣類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
+#+PROPERTY: WITNESS HFL
+#+PROPERTY: ID KR5c0097
 
